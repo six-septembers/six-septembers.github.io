@@ -10,3 +10,7 @@ To join the reading group, read our [code of conduct](codeofconduct.html) and do
 * Fill out the [Doodle poll for the June synchronous meeting](https://doodle.com/poll/avk4w45nrvs29pix)
 * Join the [Google groups mailing list](https://groups.google.com/forum/#!forum/six-septembers) for email updates (e.g. for new Doodle polls to plan synchronous meetings)
 * Join the [Six Septembers Hypothesis group](https://hypothes.is/groups/gEAzJy84/six-septembers) to annotate the text on this site (forthcoming)
+
+Got questions? Email Quinn Dombrowski at qad@stanford.edu or tweet @quinnanya.
+
+Want to talk about it on Twitter? Use the hashtag *#6septembers*.
