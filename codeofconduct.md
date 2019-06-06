@@ -2,7 +2,6 @@
 title: Code of Conduct
 layout: default
 lang: en
-ref: code-of-conduct
 ---
 # Six Septembers Reading Group Code of Conduct Summary!
 The Six Septembers Reading Group is dedicated to providing a harassment-free online community experience for everyone regardless of digital humanities experience, employment, technical skills, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, or religion. We do not tolerate harassment of members in any form. Harassment and other code of conduct violations reduce the value of our community for everyone, regardless of the intent behind these violations. Community members violating these rules may be banned from this group at the discretion of the moderators. The rest of this code of conduct document defines these statements in more detail.
