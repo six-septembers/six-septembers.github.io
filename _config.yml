@@ -42,7 +42,7 @@ minima:
 theme: minima
 
 plugins:
- - jekyll-feed
+# - jekyll-feed
  - jekyll-seo-tag
  
  header_pages:
