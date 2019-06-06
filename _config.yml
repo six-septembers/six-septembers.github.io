@@ -42,9 +42,9 @@ minima:
 theme: minima
 
 plugins:
-# - jekyll-feed
+ - jekyll-feed
  - jekyll-seo-tag
  
- header_pages:
+header_pages:
    - index.md
    - codeofconduct.md
