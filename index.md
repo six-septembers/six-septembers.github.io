@@ -8,7 +8,7 @@ To join the reading group, read our [code of conduct](codeofconduct.html) and do
 
 * Sign up for the [Six Septembers Slack](https://tinyurl.com/6septembers-slack) for asynchronous discussion
 * Fill out the [Doodle poll for the June synchronous meeting](https://doodle.com/poll/avk4w45nrvs29pix)
-* Join the [Google groups mailing list](https://groups.google.com/forum/#!forum/six-septembers) for email updates (e.g. for new Doodle polls to plan synchronous meetings)
+* Join the mailing list for email updates (e.g. for new Doodle polls to plan synchronous meetings) -- **pending list creation**, join the Slack channel or email Quinn and you'll be added when it's ready
 * Join the [Six Septembers Hypothesis group](https://hypothes.is/groups/gEAzJy84/six-septembers) to annotate the text on this site (forthcoming)
 
 Got questions? Email Quinn Dombrowski at qad@stanford.edu or tweet @quinnanya.
